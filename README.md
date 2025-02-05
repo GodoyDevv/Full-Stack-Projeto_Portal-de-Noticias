@@ -30,15 +30,8 @@ O objetivo principal deste projeto é aprofundar os conhecimentos sobre:
 - Integração de **fontes do Google Fonts**.
 
 ## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Full-Stack-Projeto_Portal-de-Noticias.git
-   ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd Full-Stack-Projeto_Portal-de-Noticias
-   ```
-3. Abra o arquivo `index.html` no navegador.
+1. Acessar o link na sessão about ao lado.
+
 
 ## 📌 Melhorias Futuras
 - Implementação de **responsividade** para melhor adaptação em dispositivos móveis.
@@ -46,7 +39,7 @@ O objetivo principal deste projeto é aprofundar os conhecimentos sobre:
 - Adição de **dark mode** para uma experiência mais confortável.
 
 ## 👨‍💻 Autor
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [GodoyDevv](https://github.com/GodoyDevv).
 
 ---
 🚀 Este projeto foi desenvolvido como prática para aprimorar habilidades em **HTML semântico** e **CSS avançado**.
